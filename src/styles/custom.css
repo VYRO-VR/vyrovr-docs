@@ -1,0 +1,14 @@
+/* VYRO-VR brand overrides for Starlight.
+   TODO: replace the accent palette with VYRO's final brand color. */
+
+:root {
+  --sl-color-accent-low: #0c2a3b;
+  --sl-color-accent: #1f8fbf;
+  --sl-color-accent-high: #b8e6f7;
+}
+
+:root[data-theme='light'] {
+  --sl-color-accent-low: #d4eef9;
+  --sl-color-accent: #1374a0;
+  --sl-color-accent-high: #0a3b54;
+}
