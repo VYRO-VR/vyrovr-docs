@@ -3,12 +3,12 @@ title: Arm Tracker Upgrade Kit
 description: Add upper-arm tracking to a Core or Advanced IBIS set.
 ---
 
-The **Arm Tracker Upgrade Kit** adds two trackers and two straps for upper-arm tracking. Combined with a Core (6) or Advanced (8) IBIS set, it gives you the same coverage as Full Body (10).
+The **Arm Tracker Upgrade Kit** adds two trackers and two basic straps for upper-arm tracking. Adding it to a Core (6) or Advanced (8) IBIS set gets you close to the coverage of a Full Body (10) set — but not identical: the 6 set in particular doesn't include foot trackers, so feet are still uncovered unless you also add the [Foot Tracker Upgrade Kit](/straps/foot-kit/).
 
 ## What's in the kit
 
 - 2 × IBIS trackers
-- 2 × comfort straps (same design as your existing straps)
+- 2 × basic 30 mm silicone-backed straps
 
 ## Pair the new trackers
 
@@ -16,7 +16,7 @@ The kit ships pre-paired to your existing receiver as long as you ordered it tog
 
 ## Where they go
 
-Upper arms. The strap sits on the **belly of the bicep**, not the shoulder. Tighten until snug — biceps shift more than calves when you flex, so this strap can be a touch firmer than your leg straps.
+Upper arms, **as close to the elbow as possible**. The flat face of the tracker should point **up toward the ceiling when you T-pose** (arms held straight out to the sides). Tighten until snug — arm trackers are particularly prone to shifting if loose, so this strap can be a touch firmer than your leg straps.
 
 For the recommended orientation, see [Wearing Trackers](/straps/wearing-trackers/#upper-arm).
 

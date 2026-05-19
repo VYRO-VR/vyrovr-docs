@@ -22,7 +22,7 @@ Trigger a **yaw reset**. If you have to do this every few minutes, enable [Stay 
 
 ### "My feet are facing the wrong way" or "Knees bend backward"
 
-Mounting on those trackers is wrong. Re-run [Mounting Calibration](/slimevr-server/mounting-calibration/) with the trackers worn correctly (USB ports down, on the calf/thigh muscle belly, not on a joint).
+Mounting on those trackers is wrong. Re-run [Mounting Calibration](/slimevr-server/mounting-calibration/) with the trackers worn correctly (USB ports down, on a spot where muscle movement doesn't shift them, not on a joint).
 
 ### "My avatar is leaning forward / hunched"
 

@@ -5,7 +5,7 @@ description: Turn IBIS trackers on, off, and understand auto-sleep behavior.
 
 ## Power on
 
-Press the button **once**. The LED turns on. The tracker starts broadcasting and, if it's already paired (all VYRO trackers ship pre-paired), it'll appear in your SlimeVR Server within a few seconds.
+Press the button **once**. The LED turns on. The tracker starts broadcasting and, if it's already paired (all IBIS trackers ship pre-paired), it'll appear in your SlimeVR Server within a few seconds.
 
 ## Power off
 

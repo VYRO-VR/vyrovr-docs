@@ -19,7 +19,7 @@ That's the whole stack:
 
 ## Why "nRF"?
 
-IBIS trackers use a Nordic **nRF52** microcontroller with a built-in 2.4 GHz radio (the same family of chip you'll find in many Bluetooth devices, but here we use a custom low-latency protocol). That's where the "NRF Slimes" name comes from in the SlimeVR community — they're SlimeVR-style trackers built around the nRF radio.
+IBIS trackers use a Nordic **nRF52** microcontroller with a built-in 2.4 GHz radio (the same family of chip you'll find in many Bluetooth devices, but here we use a custom low-latency protocol). That's the "nRF" in nRF-based SlimeVR designs.
 
 The advantage over Wi-Fi-based SlimeVR trackers is **battery life** and **latency**: IBIS trackers run 50+ hours per charge and have lower lag, at the cost of needing a USB receiver instead of joining your home Wi-Fi.
 
@@ -39,4 +39,4 @@ The extension cable is **not optional**. The receiver's antenna is short, and 2.
 
 We didn't invent the protocol. IBIS trackers are SlimeVR-compatible, meaning they work with the official **SlimeVR Server** software maintained by the SlimeVR project. The server is open-source. For deep-dive technical material (IMU calibration internals, sensor fusion math, AutoBone), the [SlimeVR docs](https://docs.slimevr.dev) are the canonical reference.
 
-Our docs cover the parts that matter for getting your VYRO trackers up and running. Anything below that layer, we'll happily link out.
+Our docs cover the parts that matter for getting your IBIS trackers up and running. Anything below that layer, we'll happily link out.

@@ -38,4 +38,4 @@ That's it. There's no per-tracker config; the server applies it across all paire
 
 ## See also
 
-Original SlimeVR write-up from the maintainers: [SlimeVR 0.16 Stay Aligned release notes](https://vyrovr.com/blogs/news/slimevr-server-update-introduces-stay-aligned) (mirrored on VYRO's blog).
+Original SlimeVR write-up from the maintainers: [SlimeVR 0.16 Stay Aligned release notes](https://vyrovr.com/blogs/news/slimevr-server-update-introduces-stay-aligned) (mirrored on VYRO VR's blog).

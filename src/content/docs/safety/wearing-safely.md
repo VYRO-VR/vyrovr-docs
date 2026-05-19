@@ -22,7 +22,7 @@ If you notice any of these during a session, **stop and loosen the strap immedia
 
 ## Where to mount
 
-Trackers go on the **belly of the muscle** (the meaty middle), not on a joint and not on a thin bony point. Strap-on-bone hurts and produces unstable tracking.
+Mount each tracker on a part of the limb where muscle movement won't shift it — and not directly on a joint or a thin bony point. Strap-on-bone hurts and produces unstable tracking.
 
 See [Wearing Trackers](/straps/wearing-trackers/) for body-part-specific placement.
 

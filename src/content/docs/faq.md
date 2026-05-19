@@ -1,6 +1,6 @@
 ---
 title: FAQ
-description: Common questions about VYRO-VR IBIS trackers.
+description: Common questions about VYRO VR IBIS trackers.
 ---
 
 ## How do IBIS trackers connect to my PC?

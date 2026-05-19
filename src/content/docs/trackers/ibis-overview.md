@@ -3,7 +3,7 @@ title: IBIS Tracker Overview
 description: Specs, controls, and at-a-glance reference for IBIS trackers.
 ---
 
-The IBIS tracker is VYRO-VR's SlimeVR-compatible full-body tracker. This page is a quick reference; deeper instructions live under the section pages.
+The IBIS tracker is VYRO VR's SlimeVR-compatible full-body tracker. This page is a quick reference; deeper instructions live under the section pages.
 
 ## Specs
 

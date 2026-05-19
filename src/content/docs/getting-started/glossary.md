@@ -1,6 +1,6 @@
 ---
 title: Glossary
-description: VR and SlimeVR terms you'll run into while setting up VYRO trackers.
+description: VR and SlimeVR terms you'll run into while setting up IBIS trackers.
 ---
 
 ## SlimeVR
@@ -17,11 +17,11 @@ The web-style interface that opens when you launch the SlimeVR Server. Where you
 
 ## IBIS tracker
 
-A VYRO-VR-made, SlimeVR-compatible tracker using the nRF 2.4 GHz wireless protocol. Sometimes called a "Smol Slime" or "stacked Smol Slime" in community contexts.
+A VYRO VR-made, SlimeVR-compatible tracker using the nRF 2.4 GHz wireless protocol.
 
-## NRF / Smol Slime
+## nRF
 
-Community names for tracker designs built on Nordic nRF52 chips. IBIS trackers are part of this family.
+Nordic Semiconductor's family of wireless microcontrollers. IBIS trackers are built around the nRF52.
 
 ## Receiver / dongle
 
