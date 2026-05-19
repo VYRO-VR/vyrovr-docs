@@ -16,7 +16,7 @@ On first launch, Windows may prompt about firewall access — **allow both Priva
 
 ## macOS
 
-The Windows installer doesn't work on macOS. Follow the [SlimeVR macOS install guide](https://docs.slimevr.dev/tools/MacOS-Installation.html). VYRO does not test against macOS internally; PCVR on Mac is unusual.
+The Windows installer doesn't work on macOS. Follow the [SlimeVR macOS install guide](https://docs.slimevr.dev/tools/MacOS-Installation.html). VYRO VR does not test against macOS internally; PCVR on Mac is unusual.
 
 ## Linux
 

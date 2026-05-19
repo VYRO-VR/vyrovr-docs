@@ -19,7 +19,7 @@ The receiver has its own radio ID. When a tracker is in pairing mode, it scans f
 ## Pair a single tracker
 
 1. **Plug in the receiver** and launch the SlimeVR Server. Make sure the server window is visible.
-2. **Put the receiver into pairing mode.** In the SlimeVR window, open the trackers list — there will be a pairing option for nRF/Smol-style receivers. Activate it. (If you have an older server build that doesn't expose this, see [Tracker Won't Pair](/troubleshooting/tracker-not-pairing/) for the configurator-based alternative.)
+2. **Put the receiver into pairing mode.** In the SlimeVR window, open the trackers list — there will be a pairing option for the receiver. Activate it. (If you have an older server build that doesn't expose this, see [Tracker Won't Pair](/troubleshooting/tracker-not-pairing/).)
 3. **Put the tracker into pairing mode.** Press the button **3 times** in quick succession. The LED will start flashing rapidly.
 4. **Wait for the pair.** Within a few seconds the rapid flash stops and the tracker either turns solid (if connected) or starts slowly blinking (if waiting to connect). The tracker now appears in the SlimeVR window.
 5. **Assign it to a body part** — see [Assigning Trackers](/slimevr-server/assigning-trackers/).
@@ -38,4 +38,3 @@ Pick up the tracker and physically rotate it. The matching entry in the SlimeVR 
 - **Tracker pairs but doesn't appear:** Check the [SlimeVR Server window's connection status](/slimevr-server/first-launch/) and the [receiver troubleshooting page](/troubleshooting/receiver-not-detected/).
 - **Tracker pairs to the wrong receiver** (e.g., a friend's): Hold the button to power off, then re-pair to your receiver.
 
-For a deeper rabbit hole on the underlying protocol, see the upstream SlimeVR [Smol pairing reference](https://docs.slimevr.dev/smol-slimes/firmware/smol-pairing-and-calibration.html).

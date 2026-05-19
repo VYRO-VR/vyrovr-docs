@@ -27,4 +27,4 @@ That's it. No drivers, no pairing app, no Wi-Fi credentials. The receiver is HID
 
 ## Multiple receivers
 
-Each receiver works as a single, self-contained pairing group. You can run two receivers (e.g., one VYRO kit + one borrowed setup) on the same PC if you really want to, but trackers paired to receiver A will not appear via receiver B. For everyday use, one receiver per playspace is the answer.
+Each receiver works as a single, self-contained pairing group. You can run two receivers (e.g., one VYRO VR kit + one borrowed setup) on the same PC if you really want to, but trackers paired to receiver A will not appear via receiver B. For everyday use, one receiver per playspace is the answer.

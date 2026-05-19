@@ -21,7 +21,7 @@ IBIS trackers use a 2.4 GHz radio. 2.4 GHz is short-range and easily blocked by 
 - Plugged directly into the back of a tower PC (chassis blocks signal)
 - Sitting on the desk behind your monitor
 - Inside a closed drawer
-- Next to a USB 3.0 port handling lots of traffic (causes 2.4 GHz interference — see the [USB 3 interference note](https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/usb3-frequency-interference-paper.pdf))
+- Next to a USB 3.0 port handling lots of traffic (USB 3 traffic is a well-documented source of 2.4 GHz interference)
 
 ## 2.4 GHz neighbours
 

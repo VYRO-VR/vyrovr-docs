@@ -6,13 +6,24 @@ export default defineConfig({
   site: 'https://docs.vyrovr.com',
   integrations: [
     starlight({
-      title: 'VYRO-VR Docs',
+      title: 'VYRO VR Docs',
       description:
-        'Setup, pairing, mounting, and troubleshooting for IBIS trackers and VYRO-VR accessories.',
+        'Setup, pairing, mounting, and troubleshooting for IBIS trackers and VYRO VR accessories.',
       logo: {
-        src: './src/assets/logo.svg',
-        replacesTitle: false,
+        src: './src/assets/logo.jpg',
+        replacesTitle: true,
       },
+      favicon: '/favicon.png',
+      head: [
+        {
+          tag: 'link',
+          attrs: {
+            rel: 'icon',
+            type: 'image/png',
+            href: '/favicon.png',
+          },
+        },
+      ],
       customCss: ['./src/styles/custom.css'],
       social: {
         discord: 'https://discord.gg/vyrovr',
@@ -51,8 +62,8 @@ export default defineConfig({
         {
           label: 'Straps & Mounting',
           items: [
-            { label: 'Comfort Strap', slug: 'straps/comfort-strap' },
-            { label: 'Premium Strap', slug: 'straps/premium-strap' },
+            { label: 'Comfort / Premium Strap', slug: 'straps/comfort-strap' },
+            { label: 'Premium Strap (alias)', slug: 'straps/premium-strap' },
             { label: 'Arm Tracker Upgrade Kit', slug: 'straps/arm-kit' },
             { label: 'Foot Tracker Upgrade Kit', slug: 'straps/foot-kit' },
             { label: 'Chest Harness', slug: 'straps/chest-harness' },

@@ -39,7 +39,7 @@ When the tracker is sitting in the charging dock:
 If you didn't mean to enter DFU mode, just power-cycle (hold the button to power off, then single-press to start).
 
 :::note
-Some patterns are firmware-version dependent. If your tracker's LED is doing something you can't find here, post a short clip in the [VYRO-VR Discord](https://discord.gg/vyrovr) — easiest way to identify it and improve this page.
+Some patterns are firmware-version dependent. If your tracker's LED is doing something you can't find here, post a short clip in the [VYRO VR Discord](https://discord.gg/vyrovr) — easiest way to identify it and improve this page.
 :::
 
 ## See also

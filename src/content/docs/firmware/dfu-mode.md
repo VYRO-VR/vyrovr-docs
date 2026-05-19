@@ -11,7 +11,7 @@ You should not enter DFU mode by accident. If you did, follow the **exit** secti
 
 - A firmware update failed mid-way and the tracker won't boot normally
 - You're manually flashing a development firmware build
-- The configurator tool tells you to put a tracker in DFU mode
+- A firmware-flashing tool tells you to put a tracker in DFU mode
 
 ## How to enter DFU mode
 
@@ -37,12 +37,9 @@ Entering DFU mode is non-destructive. Pairing, calibration, and stored config al
 If a firmware update failed and the tracker is stuck:
 
 1. Confirm it's in DFU mode (slow flutter LED, USB drive shows up when plugged into PC)
-2. Run SmolSlimeConfigurator or the SlimeVR Server firmware tool with the **previous known-good firmware**
+2. Re-flash via the SlimeVR Server's firmware update flow with the **previous known-good firmware** (see [Updating Firmware](/firmware/updating/))
 3. Flash, wait for completion, power-cycle
 4. Re-pair if needed: [Pairing](/trackers/pairing/)
 
 If the tracker isn't appearing as a USB device at all (no flutter, no drive), check the cable first — many "dead" trackers are dead USB-C cables.
 
-## Deeper reference
-
-The bootloader internals are covered upstream: [SlimeVR Smol flashing](https://docs.slimevr.dev/smol-slimes/firmware/smol-flashing-firmware.html).

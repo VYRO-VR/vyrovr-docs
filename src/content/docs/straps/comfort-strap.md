@@ -1,9 +1,11 @@
 ---
-title: Comfort Strap
-description: Assemble and wear VYRO-VR comfort straps.
+title: Comfort / Premium Strap
+description: Assemble and wear the VYRO VR comfort/premium strap (included with the Premium set).
 ---
 
-The **comfort strap** is the default strap included with every IBIS tracker kit. It's a velcro band with a silicone-lined tracker tray, a routing hook, and clips.
+The **comfort strap** and **premium strap** refer to the **same product**, sold under two names. It's an optional upgrade over the basic 30 mm silicone-backed straps and is **only included with the Premium set** (or sold separately as the Premium Strap Bundle). Every non-premium IBIS set ships with basic straps and a basic chest harness instead.
+
+It's a velcro band with a silicone-lined tracker tray, a routing hook, and clips.
 
 :::note
 Photos for each step coming soon. If anything below is unclear, the Discord has a pinned thread with example photos.
@@ -31,7 +33,7 @@ If you've assembled it correctly, the strap should look like a closed loop with 
 1. Place the loop around the body part (calf, thigh, upper arm, etc.).
 2. Pull the velcro tail through the routing hook to tighten.
 3. Fold the velcro tail back onto itself to secure.
-4. Tighten **firmly enough that the tracker doesn't shift** when you flex the muscle, but **not so tight you cut off circulation**. You should be able to slide a finger under the strap.
+4. Tighten **firmly enough that the tracker doesn't shift** when you move, but **not so tight you cut off circulation**. You should be able to slide a finger under the strap.
 
 ## Where each strap goes
 
@@ -46,5 +48,5 @@ See [Wearing Trackers](/straps/wearing-trackers/) for the body-part diagrams and
 ## Troubleshooting
 
 - **Tracker keeps shifting:** Strap is too loose, or you've got the silicone facing the wrong way (it should touch your skin, not the velcro)
-- **Strap leaves a red mark after sessions:** You're tightening it too much — back off until it just barely holds the tracker steady when you flex
-- **Strap slides down (calf or thigh):** Mount it higher on the muscle belly where the limb is widest, not on the thin part near the joint
+- **Strap leaves a red mark after sessions:** You're tightening it too much — back off until it just barely holds the tracker steady when you move
+- **Strap slides down (calf or thigh):** Mount it on a part of the limb where bone is closer to the surface and where it's less affected by muscle movement

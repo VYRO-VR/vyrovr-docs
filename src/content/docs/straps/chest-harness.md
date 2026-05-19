@@ -3,16 +3,16 @@ title: Chest Harness
 description: Wear the chest harness included with full IBIS sets.
 ---
 
-The **chest harness** is included with every IBIS set. It holds a chest tracker centered on your sternum and stays put through full ranges of motion.
+The **basic chest harness** is included with every IBIS set. It holds a chest tracker on your upper torso and stays put through full ranges of motion.
 
 ## How it wears
 
-The harness is a soft band that wraps around your torso just below the armpits, with a tracker tray over the breastbone. It clips behind your back. Shoulders carry no weight — the band sits on your ribcage.
+The harness is a soft band that wraps around your torso with a tracker tray on the front. It clips behind your back. Shoulders carry no weight — the band sits on your ribcage.
 
 ## Putting it on
 
 1. **Step into the harness** like a vest, with the tracker tray on the front.
-2. **Center the tray on your sternum** (the flat bone between your collarbones and the bottom of your ribs).
+2. **Position the tray on or above your chest.** Mount it as high as the harness comfortably allows — higher placement gives better chest tracking. Anywhere from the upper chest to just below the collarbones is fine; avoid mounting low on the ribs.
 3. **Tighten the band** until snug. It should not shift up and down when you raise your arms.
 4. **Slide the tracker into the tray** with the USB port pointing **down**.
 
