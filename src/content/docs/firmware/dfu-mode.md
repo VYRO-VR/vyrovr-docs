@@ -11,13 +11,13 @@ You should not enter DFU mode by accident. If you did, follow the **exit** secti
 
 - A firmware update failed mid-way and the tracker won't boot normally
 - You're manually flashing a development firmware build
-- A firmware-flashing tool tells you to put a tracker in DFU mode
+- **nRF Connect for Desktop**'s Programmer (or a similar flashing tool) tells you to put a tracker in DFU mode
 
 ## How to enter DFU mode
 
 **Press the button 4 or 5 times** in quick succession. The tracker enters DFU mode and the LED switches to a distinctive slow flutter pattern.
 
-In this mode the tracker advertises a USB-mass-storage bootloader endpoint. Plug it in over USB-C and your OS will see a small drive (or expose it to the configurator tool).
+In this mode the tracker advertises a USB-mass-storage bootloader endpoint. Plug it in over USB-C and your OS will see a small drive — nRF Connect for Desktop's Programmer will also pick it up.
 
 ## How to exit DFU mode (you didn't mean to enter it)
 
@@ -37,8 +37,8 @@ Entering DFU mode is non-destructive. Pairing, calibration, and stored config al
 If a firmware update failed and the tracker is stuck:
 
 1. Confirm it's in DFU mode (slow flutter LED, USB drive shows up when plugged into PC)
-2. Re-flash via the SlimeVR Server's firmware update flow with the **previous known-good firmware** (see [Updating Firmware](/firmware/updating/))
-3. Flash, wait for completion, power-cycle
+2. Re-flash with the **previous known-good firmware** using **nRF Connect for Desktop**'s Programmer app — see [Updating Firmware](/firmware/updating/) for the full workflow
+3. Wait for completion, power-cycle
 4. Re-pair if needed: [Pairing](/trackers/pairing/)
 
 If the tracker isn't appearing as a USB device at all (no flutter, no drive), check the cable first — many "dead" trackers are dead USB-C cables.

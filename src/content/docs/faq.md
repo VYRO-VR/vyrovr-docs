@@ -7,18 +7,9 @@ description: Common questions about VYRO VR IBIS trackers.
 
 Through the **USB receiver dongle** included with your kit. They do not use Wi-Fi. Plug the receiver into your PC, power on the trackers, and they appear in the SlimeVR Server within seconds. See [How the Trackers Work](/getting-started/how-trackers-work/).
 
-## Wi-Fi trackers vs IBIS / NRF — what's the difference?
+## Can I mix IBIS trackers with other tracking hardware?
 
-Standard SlimeVR Wi-Fi trackers join your home Wi-Fi network. IBIS trackers use a dedicated 2.4 GHz protocol via the receiver. Trade-offs:
-
-- IBIS: 50+ hour battery life, lower latency, no Wi-Fi setup, requires receiver
-- Wi-Fi: shorter battery life, requires 2.4 GHz Wi-Fi, no receiver needed
-
-For most users, IBIS is the simpler and longer-lasting choice.
-
-## Can I mix IBIS trackers with other SlimeVR trackers?
-
-Yes. The SlimeVR Server treats all trackers equally — you can have IBIS trackers, official SlimeVR Wi-Fi trackers, and even Vive/Tundra trackers all running in the same session.
+Yes. The SlimeVR Server treats all trackers equally, so an IBIS set can sit alongside Vive/Tundra trackers in the same session. VYRO VR sells only **nRF-based IBIS trackers**, so the rest of this site only documents the nRF workflow.
 
 ## Will IBIS work with my Quest?
 
