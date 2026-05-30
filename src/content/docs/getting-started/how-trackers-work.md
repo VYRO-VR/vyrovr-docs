@@ -21,7 +21,7 @@ That's the whole stack:
 
 IBIS trackers use a Nordic **nRF52** microcontroller with a built-in 2.4 GHz radio (the same family of chip you'll find in many Bluetooth devices, but here we use a custom low-latency protocol). That's the "nRF" in nRF-based SlimeVR designs.
 
-The advantage over Wi-Fi-based SlimeVR trackers is **battery life** and **latency**: IBIS trackers run 50+ hours per charge and have lower lag, at the cost of needing a USB receiver instead of joining your home Wi-Fi.
+IBIS trackers do not join Wi-Fi. They run on a dedicated 2.4 GHz radio link to the receiver, which means **50+ hour battery life**, **low latency**, and **no router configuration**.
 
 ## What the trackers do not do
 
