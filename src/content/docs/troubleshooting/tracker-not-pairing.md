@@ -32,11 +32,12 @@ This fixes most "stuck in a weird state" issues, including trackers that have en
 
 ## 5. Re-pair it
 
-If the tracker has somehow forgotten its pairing (or you're using a new receiver):
+If the tracker has somehow forgotten its pairing (or you're using a new receiver), follow the [Pairing](/trackers/pairing/) procedure end-to-end. Brief version:
 
-1. In SlimeVR window, trigger receiver pairing mode (see [Pairing](/trackers/pairing/))
-2. On the tracker, press the button **3 times** quickly — LED starts flashing rapidly
-3. Wait for the rapid flash to stop. The tracker should appear in the SlimeVR list.
+1. Open **nRF Connect for Desktop → Serial Terminal**, connect to the receiver's serial port, and run `pair`.
+2. On the tracker, press the button **3 times** quickly — LED starts blinking once per second.
+3. Wait for the receiver to log an `esb_event: Added device …` line. The tracker should appear in the SlimeVR list.
+4. Run `exit` in the Serial Terminal.
 
 ## 6. Range check
 
