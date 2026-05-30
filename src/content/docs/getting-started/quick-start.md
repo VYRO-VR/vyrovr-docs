@@ -9,7 +9,7 @@ If you've never used SlimeVR before, it's worth skimming [How the Trackers Work]
 
 ## 1. Charge the trackers
 
-Drop each tracker into the included **charging dock** with the USB-C port facing down, then plug the dock into a **wall charger**, not a PC port — wall charging is faster.
+Drop each tracker into the included **charging dock** with the USB-C port facing down, then plug the dock into any 5V USB source (PC port, hub, or wall charger). Each tracker is current-limited to ~50 mA, so charge speed is the same across any standard 5V source.
 
 Trackers usually arrive mostly charged, but let them all reach full once before you start. See [Charging](/charging-and-battery/charging/) for details.
 
@@ -21,7 +21,11 @@ After install, launch it. You'll see the SlimeVR window with a list of trackers 
 
 ## 3. Plug in the receiver
 
-Take the **USB receiver dongle** and the **USB extension cable** from your kit. Plug the receiver into the extension cable, then the extension into your PC. **Don't plug the receiver directly into the back of your PC** — extending it up and away from your computer dramatically improves wireless range.
+Take the **USB receiver dongle** and the **USB extension cable** from your kit. Plug the receiver into the extension cable, then the extension into your PC.
+
+:::caution[Always use the extension cable]
+**Do not plug the receiver directly into your PC.** The receiver is small and its USB connector is fragile — repeatedly plugging it directly into a PC port (especially the back of a tower) puts mechanical stress on the connector and can break it. The included USB extension cable both protects the receiver and dramatically improves wireless range.
+:::
 
 Mount or rest the receiver as high as you can in your playspace, ideally above head height with a clear line of sight to where you'll be tracking. More: [Receiver Placement](/receiver/range-and-placement/).
 

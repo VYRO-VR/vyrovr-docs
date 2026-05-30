@@ -5,6 +5,10 @@ description: Plug in your USB receiver dongle and confirm it's recognized.
 
 The receiver is the small USB stick that talks to your trackers. It's the only piece of hardware besides the trackers that has to be connected to your PC.
 
+:::caution[Always use the extension cable]
+**Do not plug the receiver directly into your PC.** The receiver is small and its USB connector is fragile — repeatedly plugging it straight into a PC port (especially the back of a tower) can damage the connector. The included USB extension cable protects the receiver **and** dramatically improves wireless range. Use it every time.
+:::
+
 ## Step by step
 
 1. **Plug the receiver into the USB extension cable**, not directly into your PC.
