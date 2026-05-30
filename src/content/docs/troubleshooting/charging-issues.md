@@ -5,22 +5,24 @@ description: Tracker won't charge, dock won't power, or charging is unreliable.
 
 ## Tracker doesn't show a charge LED when on the dock
 
-1. **Verify the dock has power.** A small LED on the dock indicates it's getting power. If not, check the USB cable from the dock to your wall charger.
+1. **Verify the dock has power.** A small LED on the dock indicates it's getting power. If not, check the USB cable from the dock to its 5V source.
 2. **Swap dock ports.** Move the tracker to a different slot. If it now charges, that slot is the problem.
 3. **Check the tracker's USB-C contacts.** Lint or pocket debris can wedge in there. A quick blow-out usually fixes it. Don't poke with metal.
-4. **Try a direct USB-C charge.** Plug a USB-C cable straight into the tracker from a wall charger. If it charges directly but not on the dock, the dock is the issue.
+4. **Try a direct USB-C charge.** Plug a USB-C cable straight into the tracker from any 5V USB source. If it charges directly but not on the dock, the dock is the issue.
 
 ## Dock has no power at all
 
-- Try a **different wall charger** with a known-good USB-C cable
-- Try a different wall outlet
+- Try a **different 5V USB source** (PC port, hub, or wall charger) with a known-good USB-C cable
+- Try a different USB port or wall outlet
 - If still nothing, the dock has likely failed — reach out via [support](/support/)
 
-## Charging is very slow
+## Charging seems unusually slow
 
-You're probably charging from a PC port. PC USB ports often share current across many devices. Move to a wall charger.
+A full charge takes a few hours — each tracker is current-limited to ~50 mA, so the dock charges at the same speed regardless of whether it's plugged into a PC, a hub, or a 5V wall charger. If a charge is taking dramatically longer than a few hours from empty, the issue is usually:
 
-Also: USB-C wall chargers vary wildly. A phone-style wall charger usually delivers more current than the wall-wart that came with a Wi-Fi router.
+- A dock port with bad contact — swap the tracker to a different slot
+- A flaky USB cable between the dock and the power source — swap it
+- A tracker that isn't seated properly in its slot — re-seat it, USB-C end down
 
 ## Tracker says charged but dies quickly
 

@@ -33,7 +33,9 @@ This is also why drift happens over time: small rotation errors accumulate. That
 
 The receiver is a small USB dongle with its own nRF radio. It listens for traffic from every paired tracker, deduplicates and timestamps the packets, and forwards them to the SlimeVR Server over USB. There's nothing for you to configure on it; it's plug-and-play.
 
-The extension cable is **not optional**. The receiver's antenna is short, and 2.4 GHz is easily attenuated by your PC chassis. Extending it up and out of the case can double or triple your effective range.
+:::caution[Always use the extension cable]
+The extension cable is **not optional**. The receiver's USB connector is small and fragile, and plugging it straight into your PC repeatedly can damage it. The cable also protects wireless range — the receiver's antenna is short, and 2.4 GHz is easily attenuated by your PC chassis. Extending it up and out of the case can double or triple your effective range.
+:::
 
 ## Where SlimeVR comes in
 

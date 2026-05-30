@@ -12,7 +12,9 @@ You should have:
 - The **receiver dongle** plugged into the **USB extension cable**
 - The **extension cable** plugged into your PC
 
-If you skipped the extension and plugged the receiver directly into your PC, it may still work but range will suffer. Use the extension.
+:::caution[Always use the extension cable]
+If you skipped the extension and plugged the receiver directly into your PC, **use the extension cable**. The receiver's USB connector is fragile and can be damaged by being plugged directly into a PC port repeatedly. The extension also dramatically improves wireless range.
+:::
 
 ## 2. Does the OS see it?
 
